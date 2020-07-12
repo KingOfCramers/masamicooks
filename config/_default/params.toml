@@ -1,0 +1,18 @@
+description = "Welcome to Masami Cookson's cooking blog."
+
+[hero]
+    # slogan = "Some cheesy quote about cooking goes here"
+    # Specify the image name in `static/img/` folder.
+    imgLeft = "hero-left.jpg"
+    imgRight = "hero-right.jpg"
+
+[comment]
+    # Options: disqus and commento.
+    platform = ""
+
+    [comment.disqus]
+        shortname = ""
+
+    [comment.commento]
+        # If self-hosting, please enter the url (e.g. https://commento.example.com) here. Otherwise leave empty. 
+        url = "https://www.masamicooks.com"
