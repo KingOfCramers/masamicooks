@@ -5,7 +5,14 @@
     weight = 10
 
 [[main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 20
+
+[[main]]
     identifier = "post"
     name = "Recipes"
     url = "/post/"
     weight = 20
+
