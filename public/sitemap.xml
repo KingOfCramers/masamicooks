@@ -3,15 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://www.masamicooks.com/categories/bread/</loc>
+    <lastmod>2020-07-12T13:44:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://www.masamicooks.com/categories/</loc>
+    <lastmod>2020-07-12T13:44:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://www.masamicooks.com/</loc>
+    <lastmod>2020-07-12T13:44:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.masamicooks.com/post/myguy/</loc>
+    <lastmod>2020-07-12T13:44:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.masamicooks.com/post/</loc>
+    <lastmod>2020-07-12T13:44:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.masamicooks.com/categories/soup/</loc>
+    <lastmod>2020-07-12T13:44:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.masamicooks.com/post/new-recipie/</loc>
+    <lastmod>2020-07-12T13:31:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.masamicooks.com/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.masamicooks.com/tags/</loc>
   </url>
   
 </urlset>
