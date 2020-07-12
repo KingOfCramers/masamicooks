@@ -6,13 +6,13 @@
 
 [[main]]
     identifier = "blog"
-    name = "Blog"
+    name = "Writing"
     url = "/blog/"
     weight = 20
 
 [[main]]
-    identifier = "post"
+    identifier = "recipe"
     name = "Recipes"
-    url = "/post/"
+    url = "/recipe/"
     weight = 20
 
