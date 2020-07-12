@@ -6,17 +6,15 @@
         class="col-span-2 {{ if not $hasSidebar }} {{- print "lg:col-start-2" -}} {{ end }} lg:col-span-6 bg-secondary-bg rounded px-6 py-8">
         <h1 class="font-bold text-3xl text-primary-text">{{ .Title }}</h1>
         {{ partial "post_metadata.html" . }}
+        <div class="my-4">
+            {{ partial "featured_image.html" . }}
+        </div>
         <div class="content">
-            I AM A POST
             {{ .Content}}
         </div>
         {{ with .GetTerms "tags" }}
         {{ partial "post_tags.html" . }}
         {{ end }}
-        {{ with .GetTerms "authors" }}
-        {{ partial "post_author.html" . }}
-        {{ end }}
-        {{ partial "post_footer.html" . }}
         {{ partial "comment.html" . }}
     </div>
     {{ if $hasSidebar}}
@@ -44,5 +42,6 @@
     </div>
     {{ end }}
 </div>
+<script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.0.0/build/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 {{ end }}
