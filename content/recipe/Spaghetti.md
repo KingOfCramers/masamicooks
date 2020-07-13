@@ -14,8 +14,7 @@ featuredImage = "new.png"
 
 ### Heading level
 
-I Want to write some more content here.
-
+I Want to write some more content!!!
 
 This is the last edit.
 
