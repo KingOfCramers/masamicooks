@@ -6,27 +6,54 @@
     <description>Recent content on MasamiCooks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2020 13:44:10 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 19:39:53 -0400</lastBuildDate>
     
 	<atom:link href="https://www.masamicooks.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Myguy</title>
-      <link>https://www.masamicooks.com/post/myguy/</link>
-      <pubDate>Sun, 12 Jul 2020 13:44:10 -0400</pubDate>
+      <title>Food12</title>
+      <link>https://www.masamicooks.com/recipe/food12/</link>
+      <pubDate>Sun, 12 Jul 2020 19:39:53 -0400</pubDate>
       
-      <guid>https://www.masamicooks.com/post/myguy/</guid>
+      <guid>https://www.masamicooks.com/recipe/food12/</guid>
       <description>This is a delicious recipe!</description>
     </item>
     
     <item>
-      <title>New Recipie</title>
-      <link>https://www.masamicooks.com/post/new-recipie/</link>
-      <pubDate>Sun, 12 Jul 2020 13:31:03 -0400</pubDate>
+      <title>Post3</title>
+      <link>https://www.masamicooks.com/blog/post3/</link>
+      <pubDate>Sun, 12 Jul 2020 17:55:11 -0400</pubDate>
       
-      <guid>https://www.masamicooks.com/post/new-recipie/</guid>
+      <guid>https://www.masamicooks.com/blog/post3/</guid>
+      <description>This is the blog summary</description>
+    </item>
+    
+    <item>
+      <title>Food1</title>
+      <link>https://www.masamicooks.com/recipe/food1/</link>
+      <pubDate>Sun, 12 Jul 2020 17:52:17 -0400</pubDate>
+      
+      <guid>https://www.masamicooks.com/recipe/food1/</guid>
       <description>This is a delicious recipe!</description>
+    </item>
+    
+    <item>
+      <title>Post2</title>
+      <link>https://www.masamicooks.com/blog/post2/</link>
+      <pubDate>Sun, 12 Jul 2020 17:45:57 -0400</pubDate>
+      
+      <guid>https://www.masamicooks.com/blog/post2/</guid>
+      <description>This is the blog summary</description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>https://www.masamicooks.com/blog/post1/</link>
+      <pubDate>Sun, 12 Jul 2020 17:43:37 -0400</pubDate>
+      
+      <guid>https://www.masamicooks.com/blog/post1/</guid>
+      <description></description>
     </item>
     
     <item>

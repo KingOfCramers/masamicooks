@@ -6,26 +6,62 @@
     <description>Recent content in Categories on MasamiCooks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2020 13:44:10 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 19:39:53 -0400</lastBuildDate>
     
 	<atom:link href="https://www.masamicooks.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bread</title>
-      <link>https://www.masamicooks.com/categories/bread/</link>
-      <pubDate>Sun, 12 Jul 2020 13:44:10 -0400</pubDate>
+      <title>Breads</title>
+      <link>https://www.masamicooks.com/categories/breads/</link>
+      <pubDate>Sun, 12 Jul 2020 19:39:53 -0400</pubDate>
       
-      <guid>https://www.masamicooks.com/categories/bread/</guid>
+      <guid>https://www.masamicooks.com/categories/breads/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Soup</title>
-      <link>https://www.masamicooks.com/categories/soup/</link>
-      <pubDate>Sun, 12 Jul 2020 13:44:10 -0400</pubDate>
+      <title>Soups</title>
+      <link>https://www.masamicooks.com/categories/soups/</link>
+      <pubDate>Sun, 12 Jul 2020 19:39:53 -0400</pubDate>
       
-      <guid>https://www.masamicooks.com/categories/soup/</guid>
+      <guid>https://www.masamicooks.com/categories/soups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baking</title>
+      <link>https://www.masamicooks.com/categories/baking/</link>
+      <pubDate>Sun, 12 Jul 2020 17:55:11 -0400</pubDate>
+      
+      <guid>https://www.masamicooks.com/categories/baking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooking</title>
+      <link>https://www.masamicooks.com/categories/cooking/</link>
+      <pubDate>Sun, 12 Jul 2020 17:55:11 -0400</pubDate>
+      
+      <guid>https://www.masamicooks.com/categories/cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frying</title>
+      <link>https://www.masamicooks.com/categories/frying/</link>
+      <pubDate>Sun, 12 Jul 2020 17:55:11 -0400</pubDate>
+      
+      <guid>https://www.masamicooks.com/categories/frying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technique</title>
+      <link>https://www.masamicooks.com/categories/technique/</link>
+      <pubDate>Sun, 12 Jul 2020 17:55:11 -0400</pubDate>
+      
+      <guid>https://www.masamicooks.com/categories/technique/</guid>
       <description></description>
     </item>
     
