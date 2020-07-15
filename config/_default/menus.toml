@@ -5,14 +5,13 @@
     weight = 10
 
 [[main]]
-    identifier = "blog"
-    name = "Writing"
-    url = "/blog/"
-    weight = 20
-
-[[main]]
     identifier = "recipe"
     name = "Recipes"
     url = "/recipe/"
     weight = 20
 
+[[main]]
+    identifier = "blog"
+    name = "Writing"
+    url = "/blog/"
+    weight = 20

@@ -1,5 +1,9 @@
 baseURL = "https://www.masamicooks.com"
 languageCode = "en-us"
-title = "okok"
+title = "MasamiCooks"
 theme = "eureka"
 googleAnalytics = "UA-172414905-1"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  style = "styles"

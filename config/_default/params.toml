@@ -1,4 +1,5 @@
 description = "Welcome to Masami Cookson's cooking blog."
+mainSections = ["blog","recipe"]
 
 [hero]
     # slogan = "Some cheesy quote about cooking goes here"
