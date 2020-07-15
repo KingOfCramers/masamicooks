@@ -1,6 +1,7 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
 summary = "This is a delicious recipe!"
+icon = "seedling"
 toc = true
 authors = ["Masami"]
 tags = []
