@@ -1,13 +1,13 @@
 +++
-title = "Post3"
+title = "Post4"
 summary = "This is the blog summary"
 toc = true
 icon = "pen"
+showdate = true
 authors = []
 tags = []
-showdate = true
 categories = ["Cooking", "Soups", "Technique", "Frying", "Baking"]
 series = []
-lastmod = 2020-07-15T01:32:22-04:00
+lastmod = 2020-07-15T09:22:16-04:00
 draft = false
 +++

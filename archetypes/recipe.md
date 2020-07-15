@@ -8,6 +8,7 @@ tags = []
 categories = ["Soups", "Breads"]
 series = []
 date = {{ .Date }}
+showdate = false
 lastmod = {{ .Date }}
 draft = false
 featuredImage = "myguy.png"

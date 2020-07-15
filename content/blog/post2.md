@@ -5,6 +5,7 @@ toc = true
 icon = "pen"
 authors = []
 tags = []
+showdate = true
 categories = ["Cooking", "Technique", "Frying", "Baking"]
 series = []
 lastmod = 2020-07-15T01:31:46-04:00
