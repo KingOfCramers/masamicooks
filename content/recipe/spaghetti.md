@@ -1,14 +1,14 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
+title = "Spaghetti"
 summary = "This is a delicious recipe!"
 icon = "seedling"
 toc = true
 authors = ["Masami"]
 tags = ["Tag1","Tag2"]
 categories = ["Soups", "Breads"]
-date = {{ .Date }}
+date = 2020-07-15T10:38:48-04:00
 showdate = false
-lastmod = {{ .Date }}
+lastmod = 2020-07-15T10:38:48-04:00
 draft = false
 featuredImage = "myguy.png"
 +++

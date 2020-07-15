@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Styles on MasamiCooks</title>
+    <link>https://www.masamicooks.com/styles/</link>
+    <description>Recent content in Styles on MasamiCooks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Masami Cookson</copyright>
+    
+	<atom:link href="https://www.masamicooks.com/styles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
