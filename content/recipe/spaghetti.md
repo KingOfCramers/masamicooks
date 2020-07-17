@@ -10,7 +10,7 @@ date = 2020-07-15T10:38:48-04:00
 showdate = false
 lastmod = 2020-07-15T10:38:48-04:00
 draft = false
-featuredImage = "myguy.png"
+featuredImage = "https://storage.googleapis.com/masamicooksimages/Screen%20Shot%202020-07-15%20at%205.03.59%20PM.png"
 +++
 
 ## h2 Heading

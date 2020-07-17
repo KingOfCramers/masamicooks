@@ -1,4 +1,4 @@
 #!/bin/bash
 
 hugo -D
-rsync -avz ./public/* slave:/home/harrison/masamicooks
+rsync -avz ./public/* slave:/var/www/masamicooks.com
