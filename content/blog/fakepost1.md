@@ -1,5 +1,5 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
+title = "Fakepost1"
 summary = "This is the blog summary"
 toc = true
 icon = "pen"
@@ -8,7 +8,7 @@ authors = []
 tags = []
 categories = ["Cooking", "Soups", "Technique", "Frying", "Baking"]
 series = []
-lastmod = {{ .Date }}
+lastmod = 2020-07-18T16:27:18-04:00
 draft = false
 featuredImage = "myguy.png"
 

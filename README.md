@@ -8,9 +8,8 @@
 
    - To open a "terminal" window (we use this to run our server) press `ctrl` and `~` (the tilda character `~` is on the top left of your keyboard). You can also choose 'new terminal' from the Terminal option in your MacOS menubar.
    - You should see a new black window appear at the bottom of the VSCode window. That's your terminal!
-   - Click it, and type the following command: `hugo server -D`
-   - This tells the terminal to run a server inside our current folder. You should see a bunch of output that ends with this line:`Press Ctrl+C to stop`
-   - When you're done editing, you'll need this command later!
+   - Click it, and type the following command: `hugo server -D` If you now navigate to http://localhost:1313 in the web browser, you'll see the local version of our website!
+   - Back in the terminal, you should see a bunch of output that ends with this line:`Press Ctrl+C to stop` which allows you to shutdown the server. You may need this command later.
 
 4) Now that you have a server running you can technically make a new blog post. But you'll need to open up a new terminal to get the shortcuts. Click the plus icon on the terminal window. It looks like this: ![title](./readme/addTerminal.png)
 
