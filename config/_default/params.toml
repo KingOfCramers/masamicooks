@@ -4,8 +4,7 @@ mainSections = ["blog","recipe"]
 [hero]
     # slogan = "Some cheesy quote about cooking goes here"
     # Specify the image name in `static/img/` folder.
-    imgLeft = "hero-left.jpg"
-    imgRight = "hero-right.jpg"
+    landingImg = "landing-image.jpg"
 
 [comment]
     # Options: disqus and commento.

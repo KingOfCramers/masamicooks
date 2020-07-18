@@ -10,7 +10,7 @@ date = 2020-07-15T10:39:47-04:00
 showdate = false
 lastmod = 2020-07-15T10:39:47-04:00
 draft = false
-featuredImage = "hero-right.jpg"
+featuredImage = "https://storage.googleapis.com/masamicooksimages/Screen%20Shot%202020-07-15%20at%205.03.59%20PM.png"
 +++
 
 ## Preparation

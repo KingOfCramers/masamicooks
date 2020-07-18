@@ -2,12 +2,9 @@
 <div class="w-full bg-secondary-bg">
     <div class="container mx-auto">
         <div class="max-w-screen-xl">
-            <div class="grid grid-cols-9 grid-rows-5 h-screen -mt-16">
-                <div class="col-start-2 col-span-4 row-start-3 row-span-2 bg-local bg-cover z-10 shadow-2xl"
-                    style="background-image: url({{ printf "img/%s" .Site.Params.hero.imgLeft | absURL }});"></div>
-                <div class="col-start-5 col-span-4 row-start-2 row-span-2 bg-local bg-cover shadow-2xl"
-                    style="background-image: url({{ printf "img/%s" .Site.Params.hero.imgRight | absURL }});"></div>
-            </div>
+            <div class="h-screen -mt-16" style="margin: 10px; background-image: url({{ printf "img/%s" .Site.Params.hero.landingImg | absURL }}); background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;" />
         </div> 
 
     </div>
