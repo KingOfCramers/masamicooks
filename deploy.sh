@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# This is a comment again
-# This is another comment, per your request.
-# This is a third comment.
+# This script will automatically deploy your changes to github and our production server.
 
+git add .
+git commit -m 'made a post'
+git push
 hugo -D
 rsync -avz ./public/* slave:/var/www/masamicooks.com
