@@ -2,7 +2,7 @@
 
 # This script will automatically deploy your changes to github and our production server.
 git add .
-git commit -m 'made a post'
+git commit -m "Used deploy script: $(date)"
 git push
 hugo -D
 
