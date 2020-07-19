@@ -1,31 +1,19 @@
 +++
-title = "Fakepost1"
-summary = "This is the blog summary"
+title = "Food"
+summary = "This is a delicious recipe!"
+icon = "seedling"
 toc = true
-icon = "pen"
-showdate = true
-authors = []
-tags = []
-categories = ["Cooking", "Soups", "Technique", "Frying", "Baking"]
-series = []
-lastmod = 2020-07-18T16:27:18-04:00
+authors = ["Masami"]
+tags = ["Tag1","Tag2"]
+categories = ["Soups", "Breads"]
+date = 2020-07-19T16:57:14-04:00
+showdate = false
+lastmod = 2020-07-19T16:57:14-04:00
 draft = false
-featuredImage = "myguy.png"
+featuredimage = "myguy.png"
+cooktime = "10"
 
 +++
-
-Insert images like this:
-
-{{< figure src=https://storage.googleapis.com/masamicooksimages/Screen%20Shot%202020-07-15%20at%205.03.59%20PM.png title="Description of image" >}}
-
-- **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
----
-
-# h1 Heading 8-)
 
 ## h2 Heading
 
@@ -37,25 +25,15 @@ You will like those projects!
 
 ###### h6 Heading
 
+This is how you insert a link --> [babelfish](https://github.com/nodeca/babelfish/)
+
 ## Horizontal Rules
-
----
-
----
 
 ---
 
 ## Typographic replacements
 
 Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,, -- ---
-
-"Smartypants, double quotes" and 'single quotes'
 
 ## Emphasis
 
@@ -96,9 +74,6 @@ Ordered
 3. Integer molestie lorem at massa
 
 1) You can use sequential numbers...
-1) ...or keep all the numbers as `1.`
 
-Start numbering with offset:
-
-57. foo
-1. bar
+`1.` Or like this
+`2.` Or like this

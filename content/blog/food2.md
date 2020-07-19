@@ -1,5 +1,5 @@
 +++
-title = "Post2"
+title = "Food2"
 summary = "This is the blog summary"
 toc = true
 icon = "pen"
@@ -8,9 +8,15 @@ authors = []
 tags = []
 categories = ["Cooking", "Soups", "Technique", "Frying", "Baking"]
 series = []
-lastmod = 2020-07-15T10:45:25-04:00
+lastmod = 2020-07-19T17:00:09-04:00
 draft = false
+featuredImage = "myguy.png"
+
 +++
+
+Insert images like this:
+
+{{< figure src=https://storage.googleapis.com/masamicooksimages/Screen%20Shot%202020-07-15%20at%205.03.59%20PM.png title="Description of image" >}}
 
 - **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
   i18n with plurals support and easy syntax.

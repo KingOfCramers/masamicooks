@@ -10,7 +10,9 @@ date = {{ .Date }}
 showdate = false
 lastmod = {{ .Date }}
 draft = false
-featuredImage = "myguy.png"
+featuredimage = "myguy.png"
+cooktime = "10"
+
 +++
 
 ## h2 Heading

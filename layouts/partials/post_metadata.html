@@ -5,11 +5,12 @@
         <span>{{ dateFormat "Jan 2, 2006" .Date }}</span>
     </div>
   {{ end }}
-    {{ if ne .ReadingTime 0 }}
-      <div class="mr-4 my-2">
-          <i class="fas fa-clock"></i>
-          <span>{{ i18n "readingTime" . }}</span>
-      </div>
+  <script>console.log({{ .Params }})</script>
+    {{ if isset .Params "cooktime" }}
+    <div class="mr-4 my-2">
+        <i class="fas fa-clock"></i>
+        <span>{{ .Params.cookTime }} minutes </span>
+    </div>
     {{ end }}
     {{ $icon := .Params.icon }}
     {{ with .GetTerms "categories" }}
