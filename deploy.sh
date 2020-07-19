@@ -6,4 +6,6 @@ git add .
 git commit -m 'made a post'
 git push
 hugo -D
-rsync -avz ./public/* slave:/var/www/masamicooks.com
+
+# Set the correct permissions and user/group for all the file upon an upload.
+rsync -rv -og --usermap="\*:www-data" --groupmap="\*:www-data" --chmod=u+rwx,g+rwx,o=rx public/ slave:/var/www/masamicooks.com
