@@ -7,4 +7,4 @@ git push
 hugo -D
 
 # Set the correct permissions and user/group for all the file upon an upload.
-rsync -rv -og --usermap="\*:www-data" --groupmap="\*:www-data" --chmod=u+rwx,g+rwx,o=rx public/ slave:/var/www/masamicooks.com
+rsync -rv -og --usermap="\*:www-data" --groupmap="\*:www-data" --delete --chmod=u+rwx,g+rwx,o=rx public/ slave:/var/www/masamicooks.com
