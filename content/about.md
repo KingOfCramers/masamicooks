@@ -1,26 +1,15 @@
 +++
 title = "Hello there!"
-description = "Hugo, the world’s fastest framework for building websites"
+description = ""
 date = "2019-02-28"
 aliases = ["about-us","about-hugo","contact"]
 author = "Masami Cookson"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+Welcome to masamicooks.com. My name is Masami and I love to cook. I created this blog share recipes, cooking tips, and stories about food. Cook with me!\
+\
+{{< figure src=https://storage.cloud.google.com/masamicooksimages/IMG_1160_Edited3%20copy.jpg >}}
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-Icons made by <a href="https://www.flaticon.com/authors/turkkub" title="turkkub">turkkub</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+A little bit about me: I'm a marketer by day and self-taught home cook by night and weekend. I can never pass up a farmer's market and love exploring new restaurants (when it is safe!) Pasta is my favorite food and I'm currently obsessing over eggplant. I reside in DC with my partner Harry, who helped design this blog. I hope you enjoy!
