@@ -1,0 +1,10 @@
+.centeredImage-container {
+  text-align: center;
+  display: block;
+  padding: 10px;
+}
+
+.centeredImage {
+  display: inline;
+  width: 350px;
+}
