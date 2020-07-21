@@ -10,7 +10,7 @@ date = 2020-07-20T23:22:11-04:00
 showdate = false
 lastmod = 2020-07-20T23:22:11-04:00
 draft = false
-featuredimage = "https://storage.googleapis.com/masamicooksimages/mushroom%20cacio%20e%20pepe.JPG"
+featuredimage = "https://storage.googleapis.com/masamicooksimages/mushroom%20cacio%20e%20pepe%20pasta%20only.JPG"
 cooktime = "45"
 
 +++
