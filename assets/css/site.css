@@ -8,3 +8,7 @@
   display: inline;
   width: 350px;
 }
+
+#featuredImage {
+  width: 450px !important;
+}
