@@ -1,0 +1,11 @@
+{{ if .IsNamedParams }}
+<figure class="floatLeft-container">
+  <img class="floatLeft" src="{{.Get "src" }}" alt="">
+  <figcaption>{{ .Get "caption" }}</figcaption>
+</figure>
+{{ else }}
+<figure class="floatLeft-container">
+  <img class="centeredImage" src="{{.Get 0}}" alt="">
+  <figcaption>{{ .Get "caption" }}</figcaption>
+</figure>
+{{ end }}
