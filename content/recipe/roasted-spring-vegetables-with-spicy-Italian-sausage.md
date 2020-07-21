@@ -1,6 +1,6 @@
 +++
 title = "Roasted spring vegetables with spicy Italian sausage"
-summary = "An ideal weeknight meal for those days when you can't bear to wash more than one pan."
+summary = "An ideal weeknight meal for those days when you can&rsquo;t bear to wash more than one pan."
 icon = "seedling"
 toc = true
 authors = ["Masami"]
@@ -11,7 +11,7 @@ showdate = false
 lastmod = 2020-07-20T23:05:04-04:00
 draft = false
 featuredimage = "https://storage.googleapis.com/masamicooksimages/one%20pan%20sausage%20dinner.JPG"
-cooktime = "10"
+cooktime = "60"
 
 +++
 Replace the sausage with a vegan variety and voila! It's vegan!
