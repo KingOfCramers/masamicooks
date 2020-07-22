@@ -5,7 +5,6 @@
         <span>{{ dateFormat "Jan 2, 2006" .Date }}</span>
     </div>
   {{ end }}
-  <script>console.log({{ .Params }})</script>
     {{ if isset .Params "cooktime" }}
     <div class="mr-4 my-2">
         <i class="fas fa-clock"></i>

@@ -1,3 +1,15 @@
+div.grid-content div.bg-secondary-bg div:last-child {
+  font-family: "Helvetica";
+}
+
+.text-tertiary-text {
+  font-family: "Helvetica";
+}
+
+div.my-2 div.content {
+  font-family: "Helvetica";
+}
+
 .sticky-toc {
   @apply sticky z-0 ease-in-out duration-300;
   top: 8rem;
