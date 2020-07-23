@@ -1,6 +1,7 @@
 +++
 title = "Buff chick salad"
 summary = "The perfect meal for when you want fried chicken but should probably eat a salad."
+description = "The perfect meal for when you want fried chicken but should probably eat a salad."
 icon = "seedling"
 toc = true
 authors = ["Masami"]

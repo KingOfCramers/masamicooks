@@ -1,10 +1,6 @@
-description = "Welcome to Masami Cookson's cooking blog."
+description = "My name is Masami and I'm a home cook sharing recipes and cooking inspiration. I'm a farmers market and local food enthusiast. Cook with me!"
+landingImg = "https://storage.googleapis.com/masamicooksimages/22C99696-B94B-47FF-9D04-DAF77B11DBDB.jpg"
 mainSections = ["blog","recipe"]
-
-[hero]
-    # slogan = "Some cheesy quote about cooking goes here"
-    # Specify the image name in `static/img/` folder.
-    landingImg = "landing-image.jpg"
 
 [comment]
     # Options: disqus and commento.

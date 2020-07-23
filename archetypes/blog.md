@@ -1,16 +1,17 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
 summary = "This is the blog summary"
+description = "This is the blog description"
+featuredImage = "https://storage.googleapis.com/masamicooksimages/EDD5BB15-EA8D-4CF9-B7BD-32C6CBF0F926.JPG"
+categories = ["Cooking", "Soups", "Technique", "Frying", "Baking"]
 toc = true
 icon = "pen"
 showdate = true
 authors = []
 tags = []
-categories = ["Cooking", "Soups", "Technique", "Frying", "Baking"]
 series = []
 lastmod = {{ .Date }}
 draft = false
-featuredImage = "myguy.png"
 
 +++
 

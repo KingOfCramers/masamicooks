@@ -1,6 +1,7 @@
 +++
 title = "Crunchy smashed cucumber salad"
 summary = "An easy, cooling side dish that pairs perfectly with a spicy stir fry or chilled noodles."
+description = "An easy, cooling side dish that pairs perfectly with a spicy stir fry or chilled noodles."
 icon = "seedling"
 toc = true
 authors = ["Masami"]

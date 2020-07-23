@@ -1,6 +1,7 @@
 +++
 title = "Roasted spring vegetables with spicy Italian sausage"
 summary = "An ideal weeknight meal for those days when you can&rsquo;t bear to wash more than one pan."
+description = "An ideal weeknight meal for those days when you can&rsquo;t bear to wash more than one pan."
 icon = "seedling"
 toc = true
 authors = ["Masami"]

@@ -1,17 +1,18 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
-summary = "This is a delicious recipe!"
-icon = "seedling"
-toc = true
-authors = ["Masami"]
-tags = ["Tag1","Tag2"]
-categories = ["Soups", "Breads"]
-date = {{ .Date }}
-showdate = false
-lastmod = {{ .Date }}
-draft = false
+summary = "This is a the summary of the recipe"
+description = "This is the blog description"
 featuredimage = "myguy.png"
 cooktime = "10"
+categories = ["Soups", "Breads"]
+tags = []
+showdate = false
+date = {{ .Date }}
+lastmod = {{ .Date }}
+authors = ["Masami"]
+draft = false
+toc = true
+icon = "seedling"
 
 +++
 

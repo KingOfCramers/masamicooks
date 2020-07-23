@@ -1,6 +1,7 @@
 +++
 title = "Gumbo-inspired spicy chicken stew with okra and Old Bay"
 summary = "A spicy stew perfect for a cold weeknight or when you just want a kick in the pants."
+description = "A spicy stew perfect for a cold weeknight or when you just want a kick in the pants."
 icon = "seedling"
 toc = true
 authors = ["Masami"]
