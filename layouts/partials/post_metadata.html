@@ -15,9 +15,7 @@
     {{ with .GetTerms "categories" }}
     <div class="mr-4 my-2">
       <i class="fa fa-{{ $icon }}" aria-hidden="true"></i>
-        {{ range $index, $value := . }}
-        <a href="{{ .RelPermalink }}" class="hover:text-eureka">{{ .LinkTitle }}</a>,
-        {{ end }}
+      {{ range $index, $value := . }}{{ if $index }}, {{ end }}<a href="{{ .RelPermalink }}" class="hover:text-eureka">{{ .LinkTitle }}</a>{{ end }}
     </div>
     {{ end }}
 
