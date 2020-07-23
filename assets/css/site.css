@@ -1,4 +1,30 @@
-div.grid-content div.bg-secondary-bg div:last-child {
+.search {
+  position: relative;
+  display: inline-block;
+}
+.search-results {
+  font-family: "Helvetica";
+  display: none;
+  background-color: #fff;
+  position: absolute;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  font-size: 0.75em;
+  z-index: 1;
+}
+.search-results a {
+  font-family: "Helvetica";
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.search-results a:hover {
+  font-family: "Helvetica";
+  background-color: #ddd;
+}
+
+## Font styles div.grid-content div.bg-secondary-bg div:last-child {
   font-family: "Helvetica";
 }
 
@@ -10,7 +36,7 @@ div.my-2 div.content {
   font-family: "Helvetica";
 }
 
-.sticky-toc {
+## Base styles .sticky-toc {
   @apply sticky z-0 ease-in-out duration-300;
   top: 8rem;
 }

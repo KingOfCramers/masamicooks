@@ -1,4 +1,5 @@
 +++
+noindex = false
 title = "Roasted spring vegetables with spicy Italian sausage"
 summary = "An ideal weeknight meal for those days when you can&rsquo;t bear to wash more than one pan."
 description = "An ideal weeknight meal for those days when you can&rsquo;t bear to wash more than one pan."
@@ -16,8 +17,6 @@ cooktime = "60"
 
 +++
 
-Replace the sausage with a vegan variety and voila! It's vegan!
-
 ## Ingredients
 
 - 3/4 lb thin skinned potatoes such as red, purple, or white potatoes cut into bite sized pieces
@@ -31,6 +30,8 @@ Replace the sausage with a vegan variety and voila! It's vegan!
 - 1 lb spicy Italian sausages
 - Parsley, chopped
 - Salt and pepper
+
+_Replace the sausage with a vegan variety and voila! It's vegan!_
 
 ## Instructions
 

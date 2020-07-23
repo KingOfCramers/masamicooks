@@ -16,12 +16,18 @@
                 class="block mt-4 md:inline-block md:mt-0 hover:text-eureka mr-4 main-a">{{ .Name }}</a>
             {{ end }}
         </div>
+        <div class="search text-xl relative inline-block pt-4 md:pt-0" id="search">
+    <input type="text" placeholder="Search site..." v-model="txt" @keyup="search()" @blur="close()" maxlength="50">
+    <div class="search-results" :style="{'display': showresult?'block':'none'}">
+        <a v-for="item in result" :href="item.url">{{ printf "{{ item.title }}" }}</a>
+    </div>
 
-        <div class="relative inline-block pt-4 md:pt-0">
-          <a href="https://www.instagram.com/masamicooks/">
-          <img src="/img/instagram.png" width="30" height="30" />
-          </a>
-        </div>
+</div>
+        <!--<div class="relative inline-block pt-4 md:pt-0">-->
+          <!--<a href="https://www.instagram.com/masamicooks/">-->
+          <!--<img src="/img/instagram.png" width="30" height="30" />-->
+          <!--</a>-->
+        <!--</div>-->
 
         {{ if .IsTranslated }}
         <div class="relative inline-block pt-4 md:pt-0">

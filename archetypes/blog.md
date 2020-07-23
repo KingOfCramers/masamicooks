@@ -1,4 +1,5 @@
 +++
+noindex = false
 title = "{{ replace .Name "-" " " | title }}"
 summary = "This is the blog summary"
 description = "This is the blog description"
