@@ -10,11 +10,13 @@ date = 2020-07-19T22:31:16-04:00
 showdate = false
 lastmod = 2020-07-19T22:31:16-04:00
 draft = false
-featuredimage = "https://storage.cloud.google.com/masamicooksimages/spicy%20chicken%20%20stew%20size.JPG"
+featuredimage = "https://storage.googleapis.com/masamicooksimages/spicy%20chicken%20%20stew%20size.JPG"
 cooktime = "60"
 
 +++
+
 ## Ingredients
+
 - 3 T olive oil
 - 3 bone-in skin-on chicken thighs
 - 1 yellow onion, chopped
@@ -34,10 +36,11 @@ cooktime = "60"
 - 2 C frozen chopped okra
 - 3 C cooked white rice
 - salt and pepper
-- chopped scallions/parsley 
+- chopped scallions/parsley
 - hot sauce of your choice
 
 ## Instructions
+
 Season the chicken thighs with salt and pepper. Heat 2 T olive oil in a large pot or dutch oven over medium heat. Fry the chicken thighs in the dutch oven until browned on both sides, about 5 minutes per side. Set aside.\
 \
 Without draining off the fat, add the onions, bell pepper, celery, garlic to the dutch oven. Season with salt and pepper. Saute until tender, about 10 minutes. Add the herbs and spices to the pot: old bay, cayenne, white pepper, smoked paprika, thyme, bay leaves, and parsley. Stir to combine. Fry the spices and allow to become fragrant, about 3 minutes. Add the can of tomatoes, squishing the tomatoes in your hands as you add them to the pot. Add the chicken broth, lemon zest, and stir to combine. Season with salt and pepper. Bring the mixture to a boil.\

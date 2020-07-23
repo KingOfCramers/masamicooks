@@ -10,12 +10,15 @@ date = 2020-07-19T22:01:28-04:00
 showdate = false
 lastmod = 2020-07-19T22:01:28-04:00
 draft = false
-featuredimage = "https://storage.cloud.google.com/masamicooksimages/EDD5BB15-EA8D-4CF9-B7BD-32C6CBF0F926.JPG"
+featuredimage = "https://storage.googleapis.com/masamicooksimages/EDD5BB15-EA8D-4CF9-B7BD-32C6CBF0F926.JPG"
 cooktime = "45"
 
 +++
+
 ## Ingredients
+
 ### For the chicken
+
 - 2 boneless skinless chicken thighs
 - 3/4 C buttermilk
 - 1 1/2 C neutral oil for frying, such as canola
@@ -23,6 +26,7 @@ cooktime = "45"
 - 1/2 tsp each: cayenne, smoked paprika, garlic powder, onion powder
 
 ### For the salad
+
 - 1 head butter lettuce, washed and roughly torn
 - 1 stalk celery, sliced on a bias
 - 1/2 C cherry tomatoes, sliced in half
@@ -32,12 +36,14 @@ cooktime = "45"
 - 1/4 C blue cheese, crumbled
 
 ### For the dressing
+
 - Juice of 1 lemon
 - 2 T olive oil
 - Salt and pepper
 - Hot sauce of your choice
 
 ## Instructions
+
 Season the chicken on both sides with salt and pepper. In a sealable container, combine buttermilk and chicken. Cover and marinate, refrigerated, for 30 minutes, up to 24 hours.\
 \
 Meanwhile, prepare all vegetables for the salad and combine in a large bowl, leaving the blue cheese to the side. Make the dressing. Combine lemon juice, olive oil, salt and pepper in a small bowl. Once the chicken has marinated for 30 minutes, remove from the refrigerator.\

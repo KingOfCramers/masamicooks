@@ -14,7 +14,9 @@ featuredimage = "https://storage.googleapis.com/masamicooksimages/mushroom%20cac
 cooktime = "45"
 
 +++
+
 ## Ingredients
+
 - 1 1/2 lbs mixed mushrooms, cleaned and sliced
 - 2 sprigs fresh thyme, leaves picked off stems
 - 2 large shallots, sliced thinly
@@ -26,6 +28,7 @@ cooktime = "45"
 - salt and pepper to taste
 
 ## Instructions
+
 Preheat the oven to 425 degrees F. Combine mushrooms, thyme, shallots, olive oil, salt and pepper to taste on a large sheet pan. Toss to combine. Divide the mushroom mixture between two sheet pans and spread it in an even layer.\
 \
 Roast the mushrooms in the oven for a total of 25-30 minutes, taking them out halfway to rotate the pans and mix the mushrooms with a spatula to ensure they brown evenly. Once they’ve become brown and crispy, about 30 minutes, remove from the oven and set aside.\

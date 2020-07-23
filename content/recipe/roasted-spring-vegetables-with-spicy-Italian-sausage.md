@@ -14,8 +14,11 @@ featuredimage = "https://storage.googleapis.com/masamicooksimages/one%20pan%20sa
 cooktime = "60"
 
 +++
+
 Replace the sausage with a vegan variety and voila! It's vegan!
+
 ## Ingredients
+
 - 3/4 lb thin skinned potatoes such as red, purple, or white potatoes cut into bite sized pieces
 - 1 small red onion
 - 1/3 C olive oil
@@ -29,6 +32,7 @@ Replace the sausage with a vegan variety and voila! It's vegan!
 - Salt and pepper
 
 ## Instructions
+
 Preheat the oven to 425 degrees F. On a large sheet pan, combine potatoes, onions, 1/4 C olive oil, and salt and pepper to taste. Use your hands to gently mix and spread into an even layer.\
 \
 Bake potato and onion mixture for 20 minutes. Meanwhile, prepare the other vegetables.\
