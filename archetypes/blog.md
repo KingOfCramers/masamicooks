@@ -18,7 +18,7 @@ draft = false
 
 Insert images like this:
 
-{{< figure src=https://storage.googleapis.com/masamicooksimages/Screen%20Shot%202020-07-15%20at%205.03.59%20PM.png title="Description of image" >}}
+{{< figure src=https://storage.googleapis.com/masamicooksimages/Screen%20Shot%202020-07-15%20at%205.03.59%20PM.png class="fade-in-on-load" title="Description of image" >}}
 
 - **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
   i18n with plurals support and easy syntax.
