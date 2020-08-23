@@ -8,6 +8,7 @@
   position: relative;
   display: inline-block;
 }
+
 .search-results {
   font-family: "Helvetica";
   display: none;
@@ -30,7 +31,9 @@
   background-color: #ddd;
 }
 
-## Font styles div.grid-content div.bg-secondary-bg div:last-child {
+/* Font styles */
+
+div.grid-content div.bg-secondary-bg div:last-child {
   font-family: "Helvetica";
 }
 
@@ -42,7 +45,9 @@ div.my-2 div.content {
   font-family: "Helvetica";
 }
 
-## Base styles .sticky-toc {
+/* Base styles */
+
+.sticky-toc {
   @apply sticky z-0 ease-in-out duration-300;
   top: 8rem;
 }
