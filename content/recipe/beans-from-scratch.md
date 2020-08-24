@@ -1,7 +1,7 @@
 +++
 noindex = false
 title = "Beans from scratch"
-summary = "Have you ever wandered down the bulk section of the grocery store, curious about how those bins and bins of tiny rocks (aka dried beans) become food? Look no further, here&rsquo;s your non recipe recipe for how to cook dried beans."
+summary = "Have you ever wandered down the bulk section of the grocery store, curious about how those bins of tiny rocks (aka dried beans) become food? Look no further, here&rsquo;s your non recipe recipe for how to cook dried beans."
 description = "Have you ever wandered down the bulk section of the grocery store, curious about how those mysterious rock-like dried beans become food? Look no further, here&rsquo;s your non recipe recipe for how to cook dried beans."
 featuredimage = "https://storage.googleapis.com/masamicooksimages/basic%20beans.JPG"
 cooktime = "240"
@@ -39,4 +39,4 @@ Rinse beans (soaked or unsoaked) and discard any debris. In a 2 quart saucepot o
 \
 On the stove, bring the uncovered beans to a rolling boil. Then, turn the heat down and simmer the beans until done, between 1-4 hours depending on size, stirring occasionally and adding more water if necessary. When beans are al dente, season with salt.\
 \
-Discard the bay leaves, herbs, parmesan rind, and any intact onion or garlic. Use these beans as you would in any recipe requiring canned beans.
+Discard the bay leaves, herbs, parmesan rind, and any intact onion or garlic. Store the beans in the broth until ready to use. Use these beans as you would in any recipe requiring canned beans.

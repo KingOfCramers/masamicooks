@@ -1,13 +1,13 @@
 +++
 noindex = false
 title = "Crispy roasted mushroom cacio e pepe"
-summary = "Crispy, savory mushrooms meet creamy noodles in this umami-rich vegetarian main course."
-description = "Crispy, savory mushrooms meet creamy noodles in this umami-rich vegetarian main course."
+summary = "Crispy, savory mushrooms meet creamy noodles in this umami-rich main course that will satisfy both vegetarians and meat-eaters alike."
+description = "Crispy, savory mushrooms meet creamy noodles in this umami-rich main course that will satisfy both vegetarians and meat-eaters alike."
 icon = "seedling"
 toc = true
 authors = ["Masami"]
 tags = []
-categories = ["pasta", "vegetarian", "main dish", "dinner"]
+categories = ["pasta", "vegetarian", "main dish", "dinner", "mushrooms"]
 date = 2020-07-20T23:22:11-04:00
 showdate = false
 lastmod = 2020-07-20T23:22:11-04:00
@@ -16,6 +16,8 @@ featuredimage = "https://storage.googleapis.com/masamicooksimages/mushroom%20cac
 cooktime = "45"
 
 +++
+
+Mushrooms and shallots are caramelized in olive oil bringing deep, savory notes to this cacio e pepe. Using sheetpans in the oven to roast mushrooms rather than doing so on the stovetop allows for an even browning and limits the amount of excess oil needed to keep the mushrooms from sticking.
 
 ## Ingredients
 

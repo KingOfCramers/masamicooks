@@ -17,6 +17,8 @@ cooktime = "45"
 
 +++
 
+Who doesn't love fried chicken? This salad combines health and happiness with the best of both worlds, featuring hot crispy chicken, tangy blue cheese, a bright vinagrette, and crunchy veggies. For a vegetarian alternative, consider swapping the chicken for firm tofu, following the same breading and frying process.
+
 ## Ingredients
 
 ### For the chicken

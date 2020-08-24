@@ -6,7 +6,7 @@ aliases = ["about-us","about-hugo","contact"]
 author = "Masami Cookson"
 +++
 
-Welcome to masamicooks.com. My name is Masami and I love to cook. I created this blog share recipes, cooking tips, and stories about food. Cook with me!\
+Welcome to masamicooks.com. My name is Masami and I love to cook. I created this blog to share recipes, cooking tips, and stories about food. Cook with me!\
 \
 {{< centeredImage src=https://storage.googleapis.com/masamicooksimages/IMG_1160_Edited3%20copy.jpg >}}
 

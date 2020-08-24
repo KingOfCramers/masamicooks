@@ -1,8 +1,8 @@
 +++
 noindex = false
 title = "Gumbo-inspired spicy chicken stew with okra and Old Bay"
-summary = "A spicy stew perfect for a cold weeknight or when you just want a kick in the pants."
-description = "A spicy stew perfect for a cold weeknight or when you just want a kick in the pants."
+summary = "This spicy stew takes cues from gumbo but has no seafood or roux. Paying homage to my current locale, it&rsquo;s flavored with Old Bay seasoning, a mid-Atlantic standby."
+description = "This spicy stew takes cues from gumbo but has no seafood. Paying homage to my current locale, it&rsquo;s flavored with Old Bay seasoning, a mid-Atlantic standby."
 icon = "seedling"
 toc = true
 authors = ["Masami"]
@@ -16,6 +16,8 @@ featuredimage = "https://storage.googleapis.com/masamicooksimages/spicy%20chicke
 cooktime = "60"
 
 +++
+
+Growing up, gumbo came out of a can, but that didn't mean I loved it any less (thank you, Campbell's). I've always had a fascination with cajun and creole food (which are not the [same](https://www.louisianatravel.com/articles/cajun-vs-creole-food-what-difference)), but was not aware of their [history](https://americanhistory.si.edu/blog/creole-cuisine) and roots in the African Slave trade. The name "Gumbo" is widely recognized as originating from the word ki ngombo, meaning okra in the Central Bantu dialect of West Africa. Many slaves taken from West Africa arrived in colonial Louisiana and are thought to have created the earliest versions of gumbo, okra stews eaten with rice. Learn more about the history of gumbo [here](https://www.theatlantic.com/health/archive/2009/12/gumbo-the-mysterious-history/32659/).
 
 ## Ingredients
 

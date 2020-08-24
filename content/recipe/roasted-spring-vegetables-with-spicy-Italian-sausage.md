@@ -1,8 +1,8 @@
 +++
 noindex = false
 title = "Roasted spring vegetables with spicy Italian sausage"
-summary = "An ideal weeknight meal for those days when you can&rsquo;t bear to wash more than one pan."
-description = "An ideal weeknight meal for those days when you can&rsquo;t bear to wash more than one pan."
+summary = "A simple, one-pan dinner that can be easily altered to become vegan or vegetarian. This dish is ideal for those days when you can&rsquo;t bear to wash more than one pan."
+description = "A simple, one-pan dinner that can be easily altered to become vegan or vegetarian. This dish is ideal for those days when you can&rsquo;t bear to wash more than one pan."
 icon = "seedling"
 toc = true
 authors = ["Masami"]
@@ -16,6 +16,8 @@ featuredimage = "https://storage.googleapis.com/masamicooksimages/one%20pan%20sa
 cooktime = "60"
 
 +++
+
+Simple but delicious, this no frills recipe gets dinner on the table with minimal effort and dishes. To adapt this recipe for vegans or vegetarians, replace the sausage with a vegan variety.
 
 ## Ingredients
 
@@ -31,17 +33,15 @@ cooktime = "60"
 - Parsley, chopped
 - Salt and pepper
 
-_Replace the sausage with a vegan variety and voila! It's vegan!_
-
 ## Instructions
 
 Preheat the oven to 425 degrees F. On a large sheet pan, combine potatoes, onions, 1/4 C olive oil, and salt and pepper to taste. Use your hands to gently mix and spread into an even layer.\
 \
 Bake potato and onion mixture for 20 minutes. Meanwhile, prepare the other vegetables.\
 \
-After 20 minutes, remove the potato mixture from the oven. Add vinegar, summer squash, cherry tomatoes, green beans, 1/4 C olive oil, salt and pepper to the pan. Gently toss using a spatula and spread into an even layer. Place the sausages on top of the mixture and return to the oven for 30 minutes.\
+After 20 minutes, remove the potato mixture from the oven. Add vinegar, summer squash, cherry tomatoes, green beans, 1/4 C olive oil, salt and pepper to the pan. Gently toss using a spatula and spread into an even layer. Place the sausages on top of the mixture and return to the oven for 20 minutes.\
 \
-After 30 minutes, remove the pan from the oven and set the sausages aside. Begin preheating the broiler.\
+After 20 minutes, remove the pan from the oven and set the sausages aside. Begin preheating the broiler.\
 \
 Using a spatula, stir the vegetable mixture. Return the veggies to the oven and broil for 5 minutes. Repeat this process 2-3 times until veggies have achieved a slight crisp and are browned at the edges. Serve topped with parsley.\
 \

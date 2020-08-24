@@ -1,8 +1,8 @@
 +++
 noindex = false
 title = "Crunchy smashed cucumber salad"
-summary = "An easy, cooling side dish that pairs perfectly with a spicy stir fry or chilled noodles."
-description = "An easy, cooling side dish that pairs perfectly with a spicy stir fry or chilled noodles."
+summary = "Everything you need a cucumber salad to be and nothing extra. Simple and tasty, eat it alone as a snack or pair it with a spicy stir fry or chilled noodles for a complete meal."
+description = "Everything you need a cucumber salad to be and nothing extra. Simple and tasty, eat it alone as a snack or pair it with a spicy stir fry or chilled noodles for a complete meal."
 icon = "seedling"
 toc = true
 authors = ["Masami"]
@@ -16,6 +16,8 @@ featuredimage = "https://storage.googleapis.com/masamicooksimages/Cucumber%20sal
 cooktime = "15"
 
 +++
+
+Cucumbers are a peak summer food. When it's simply too hot and you can't bear to cook, crisp and refreshing cucumbers are here for you. Turned into a simple salad, your summer saving grace becomes more than just a single vegetable chopped up on a plate. This basic recipe can be riffed on in a multitude of ways - different herbs like mint or parsley add flair as does swapping the vinegar for lemon juice. 
 
 ## Ingredients
 
