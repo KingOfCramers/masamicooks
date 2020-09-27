@@ -17,13 +17,13 @@ icon = "seedling"
 
 +++
 
-A kid-pleaser and a crowd pleaser, tomato sauce is an umami-packed essential that all home cooks should try making from scratch at least once. While nothing beats the ease of jarred sauce, making tomato sauce yourself allows you to tailor the sauce to your palette and avoid any artificial flavors or preservatives that are often included in jarred sauces. For me, the best tomato sauce is simple, and only includes a few key ingredients that lovingly augment the flavor of what I believe is already a perfect food: tomatoes. Every home cook has their own recipe, so feel free to use mine as a guideline to create one that speaks to you.\
+A kid-pleaser and a crowd pleaser, tomato sauce is an umami-packed essential that all home cooks should try making from scratch at least once. While nothing beats the ease of jarred sauce, making tomato sauce yourself allows you to tailor the sauce to your palette and avoid any artificial flavors or preservatives that are often included in jarred sauces. For me, the best tomato sauce is simple, and only includes a few key ingredients that augment the flavor of what I believe is already a perfect food: tomatoes. Every home cook has their own tomato sauce recipe, so feel free to use mine as a guideline to create one that speaks to you.\
 \
 I’ve included two versions serving two very different seasons: summer, when the tomatoes are abundant and deliciously sweet and acidic; and all of the other seasons, when the tomatoes are shitty and you should just buy a quality canned variety.\
 \
 \
 \
-**In summer with fresh tomatoes**
+**Version 1: In summer with fresh tomatoes**
 ## Ingredients
 - 3 lbs of large tomatoes, any variety
 - 3 T extra virgin olive oil
@@ -41,7 +41,7 @@ In a food processor or blender, combine peeled tomatoes, olive oil, garlic, chil
 \
 \
 \
-**Any other time of year with canned tomatoes**
+**Version 2: Any other time of year with canned tomatoes**
 ## Ingredients
 - 1/4 cup extra virgin olive oil
 - 1/2 large yellow onion
