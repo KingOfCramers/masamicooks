@@ -30,7 +30,7 @@ I love crispy mushrooms. On pizza, pasta, salads, tacos, you name it. In this di
 - parmesan rind
 - 1 bay leaf
 - 2 lemons
-- 1/4 cup cooked farro
+- 1/2 cup cooked farro
 - 1 scallion, chopped finely
 - 2 sprigs dill, chopped finely
 - parmesan cheese, for grating
