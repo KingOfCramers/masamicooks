@@ -11,6 +11,12 @@
         <span>{{ .Params.cookTime }} minutes </span>
     </div>
     {{ end }}
+    {{ if isset .Params "preptime" }}
+    <div class="mr-4 my-2">
+        <i class="fas fa-user-clock"></i>
+        <span>{{ .Params.preptime }} minutes </span>
+    </div>
+    {{ end }}
     {{ $icon := .Params.icon }}
     {{ with .GetTerms "categories" }}
     <div class="mr-4 my-2">
