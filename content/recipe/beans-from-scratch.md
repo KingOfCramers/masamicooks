@@ -6,6 +6,7 @@ description = "Have you ever wandered down the bulk section of the grocery store
 featuredimage = "https://storage.googleapis.com/masamicooksimages/basic%20beans.JPG"
 cooktime = "240"
 preptime = "40"
+servings = "4"
 categories = ["beans", "basic recipes", "vegetarian", "easy"]
 tags = []
 showdate = false

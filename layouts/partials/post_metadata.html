@@ -8,13 +8,19 @@
     {{ if isset .Params "cooktime" }}
     <div class="mr-4 my-2">
         <i class="fas fa-clock"></i>
-        <span>{{ .Params.cookTime }} minutes </span>
+        <span>{{ .Params.cookTime }} minutes total </span>
     </div>
     {{ end }}
     {{ if isset .Params "preptime" }}
     <div class="mr-4 my-2">
         <i class="fas fa-user-clock"></i>
-        <span>{{ .Params.preptime }} minutes </span>
+        <span>{{ .Params.preptime }} minutes active </span>
+    </div>
+    {{ end }}
+    {{ if isset .Params "servings" }}
+    <div class="mr-4 my-2">
+        <i class="fas fa-utensils"></i>
+        <span>{{ .Params.servings }} servings </span>
     </div>
     {{ end }}
     {{ $icon := .Params.icon }}
