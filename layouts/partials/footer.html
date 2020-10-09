@@ -67,3 +67,15 @@ let vuesearch = new Vue({
         } // methods
     }); // Vue
 </script>
+  <script>
+    $(document).ready(function () {
+      var numString = {{ len .Site.RegularPages }}
+      var pages = parseInt(numString) - 2; // Only content posts...
+      var allPages = $(".toBeRevealed");
+      allPages.each((index, element) => {
+        if(index >= 3){
+          $(element).hide() //css("visible", "none")
+        }
+      })
+    });
+  </script>

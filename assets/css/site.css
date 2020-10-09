@@ -1,3 +1,14 @@
+.showMore-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.showMore-wrapper button {
+  font-size: 20px;
+}
+
 .fade-in-on-load {
   opacity: 0;
   will-change: transition;
@@ -106,3 +117,4 @@ div.my-2 div.content {
 #featuredImage {
   width: 450px !important;
 }
+

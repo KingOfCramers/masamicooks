@@ -3,45 +3,6 @@
   crossorigin="anonymous">
 </script>
 
-<script>
-  
-  $( document ).ready(function() {
-
-//     $(function () {
-//     var body = $('.fade-in-on-load');
-//     var backgrounds = [
-//       'url(https://storage.googleapis.com/masamicooksimages/22C99696-B94B-47FF-9D04-DAF77B11DBDB.jpg)', 
-//       'url(https://storage.googleapis.com/masamicooksimages/18B5B211-883A-4929-807D-5E17AEE9B6AA.jpg)', 
-//       'url(https://storage.googleapis.com/masamicooksimages/18B5B211-883A-4929-807D-5E17AEE9B6AA.jpg)', 
-//       'url(https://storage.googleapis.com/masamicooksimages/0B619DF2-2050-423B-BF98-CD780F52E98F.jpg)'];
-//     var current = 0;
-
-//     function nextBackground() {
-//         body.css(
-//             'background',
-//         backgrounds[current = ++current % backgrounds.length]);
-
-//         setTimeout(nextBackground, 5000);
-//     }
-//     setTimeout(nextBackground, 5000);
-//     body.css('background', backgrounds[0]);
-// });
-
-    $(".fade-in-on-load").each(function(x, a){
-        $(this).css("background-image", "https://storage.googleapis.com/masamicooksimages/0B619DF2-2050-423B-BF98-CD780F52E98F.jpg");
-      $(a).css('opacity', 1)
-    if (!this.complete) {
-        $(this).bind("load", function () {
-            $(this).css('opacity', '1');
-        });
-    } else {
-        $(this).css('opacity', '1');
-    }
-    });
-  });
-
-</script>
-
 <nav class="flex items-center justify-between flex-wrap p-4">
     <div class="flex items-center flex-shrink-0 text-primary-text mr-6">
         <a href="/" class="font-semibold text-3xl tracking-tight">{{ .Site.Title }}</a>
@@ -67,11 +28,6 @@
     </div>
 
 </div>
-        <!--<div class="relative inline-block pt-4 md:pt-0">-->
-          <!--<a href="https://www.instagram.com/masamicooks/">-->
-          <!--<img src="/img/instagram.png" width="30" height="30" />-->
-          <!--</a>-->
-        <!--</div>-->
 
         {{ if .IsTranslated }}
         <div class="relative inline-block pt-4 md:pt-0">
