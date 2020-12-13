@@ -5,6 +5,7 @@ summary = "Comforting and cozy, this bean-heavy vegetarian dinner lands somewher
 description = "Comforting and cozy, this bean-heavy vegetarian dinner lands somewhere between a stew and a grain bowl, the ideal meal for a cool summer night or a crisp fall day."
 featuredimage = "https://storage.googleapis.com/masamicooksimages/brothy%20beans%20w%20mushrooms.JPG"
 cooktime = "45"
+preptime = "30"
 categories = ["Stews", "main dish", "vegetarian", "dinner", "beans", "mushrooms"]
 tags = []
 showdate = false

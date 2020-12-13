@@ -5,6 +5,7 @@ summary = "Soft tofu is marinated in a soy-based dressing, lightly tossed in cor
 description = "Soft tofu is marinated in a soy-based dressing, lightly tossed in cornstarch and fried until crisp, creating a delicious vegan taco filling, salad topper, or snack."
 featuredimage = "https://storage.googleapis.com/masamicooksimages/crunchy%20marinated%20tofu.JPG"
 cooktime = "60"
+preptime = "30"
 categories = ["tofu", "vegan", "fried", "easy", "vegetarian"]
 tags = []
 showdate = false

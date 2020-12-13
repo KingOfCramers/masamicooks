@@ -5,6 +5,7 @@ summary = "When it comes to salad, there&rsquo;s nothing quite like the queen - 
 description = "When it comes to salad, there's nothing quite like the queen - Caesar. Here's my version of this classic dressing, which is equally as delicious on crisp romaine as it is with roasted broccoli or any veggie you like."
 featuredimage = "https://storage.googleapis.com/masamicooksimages/caesar%20dressing.JPG"
 cooktime = "10"
+preptime = "10"
 categories = ["salad", "dressing", "easy", "lunch", "dinner", "sides"]
 tags = []
 showdate = false

@@ -14,6 +14,7 @@ lastmod = 2020-07-20T22:36:53-04:00
 draft = false
 featuredimage = "https://storage.googleapis.com/masamicooksimages/Cucumber%20salad.JPG"
 cooktime = "15"
+preptime = "10"
 
 +++
 

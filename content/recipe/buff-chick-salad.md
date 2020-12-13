@@ -13,7 +13,8 @@ showdate = false
 lastmod = 2020-07-19T22:01:28-04:00
 draft = false
 featuredimage = "https://storage.googleapis.com/masamicooksimages/EDD5BB15-EA8D-4CF9-B7BD-32C6CBF0F926.JPG"
-cooktime = "45"
+cooktime = "60"
+preptime = "40"
 
 +++
 

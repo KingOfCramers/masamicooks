@@ -5,6 +5,7 @@ summary = "Sweet and savory, this vegetarian main dish borrows flavors from the 
 description = "Sweet and savory, this vegetarian main dish borrows flavors from the well-known eggplant casserole, Moussaka, but comes together in a pinch. This recipe can be easily made vegan by omitting the crumbled feta."
 featuredimage = "https://storage.googleapis.com/masamicooksimages/stewed%20eggplant%20with%20raisins.JPG"
 cooktime = "40"
+preptime = "20"
 categories = ["stew", "vegetarian", "easy", "eggplant", "main dish", "dinner"]
 tags = []
 showdate = false

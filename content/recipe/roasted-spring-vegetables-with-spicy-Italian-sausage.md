@@ -14,6 +14,7 @@ lastmod = 2020-07-20T23:05:04-04:00
 draft = false
 featuredimage = "https://storage.googleapis.com/masamicooksimages/one%20pan%20sausage%20dinner.JPG"
 cooktime = "60"
+preptime = "20"
 
 +++
 

@@ -5,6 +5,7 @@ summary = "Don&rsquo;t be fooled by the word &ldquo;confit&ldquo; or the long co
 description = "Don&rsquo;t be fooled by the word &ldquo;confit&ldquo; or the long cook time, this pasta only takes about 30 minutes of active cooking to make and relies on accessible pantry staples for an easy and delicious meal."
 featuredimage = "https://storage.googleapis.com/masamicooksimages/tomato%20confit%20pasta%202.JPG"
 cooktime = "110"
+preptime = "20"
 categories = ["pasta", "main dish", "dinner", "easy"]
 tags = []
 showdate = false

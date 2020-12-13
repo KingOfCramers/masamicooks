@@ -5,6 +5,7 @@ summary = "A kid-pleaser and a crowd pleaser, tomato sauce is an umami-packed es
 description = "A kid-pleaser and a crowd pleaser, tomato sauce is an umami-packed weeknight hero that all home cooks should try making from scratch at least once. This is my version."
 featuredimage = "https://storage.googleapis.com/masamicooksimages/homemade%20tomato%20sauce.JPG"
 cooktime = "45"
+preptime = "10"
 categories = ["sauce", "vegetarian", "vegan"]
 tags = []
 showdate = false

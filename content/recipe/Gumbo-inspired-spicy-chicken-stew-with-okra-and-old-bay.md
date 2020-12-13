@@ -14,6 +14,7 @@ lastmod = 2020-07-19T22:31:16-04:00
 draft = false
 featuredimage = "https://storage.googleapis.com/masamicooksimages/spicy%20chicken%20%20stew%20size.JPG"
 cooktime = "60"
+preptime = "30"
 
 +++
 
