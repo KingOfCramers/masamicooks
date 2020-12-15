@@ -1,11 +1,11 @@
 +++
 noindex = false
 title = "Faux-konomiyaki"
-summary = "My take on the traditional Japanese savory cabbage pancake, Okonomiyaki. I use more cabbage and less batter for a thinner crispier pancake - more like a cabbage latke."
+summary = "Faux-konomiyaki is my take on the traditional Japanese savory cabbage pancake, Okonomiyaki. I use more cabbage and less batter for a thinner crispier pancake - more like a cabbage latke."
 description = "My take on the traditional Japanese savory cabbage pancake, Okonomiyaki. I use more cabbage and less batter for a thinner crispier pancake - more like a cabbage latke."
 featuredimage = "https://storage.googleapis.com/masamicooksimages/Fauxkonomiyaki.JPG"
-cooktime = "30"
-preptime = "20"
+cooktime = "50"
+preptime = "30"
 categories = ["main dish","dinner","japanese","easy"]
 tags = []
 showdate = false
@@ -42,6 +42,10 @@ Meanwhile, slice your bacon in half to make 8 short slices and begin warming a l
 \
 After 10 minutes, toss the cabbage mixture again. Add 1-2 tablespoons oil to your hot pan and place 2 of your short slices of bacon in the pan. Working quickly, use tongs to turn the bacon over repeatedly until it is half cooked. The goal is to evenly cook the bacon so that it doesn't curl and will lay flat on the bottom of your Okonmiyaki. \
 \
-When the bacon is half cooked, place the pieces about an inch apart in the pan. Scoop 1/4 of the cabbage mixture and place it directly on top of the bacon. If any batter has accumulated at the bottom of the bowl, pour a little on top of the cabbage. Using the lid of a smaller pan, weigh down the Okonomiyaki so that all of the cabbage makes contact with the pan. \
+When the bacon is half cooked, place the pieces about an inch apart in the pan. Scoop 1/4 of the cabbage mixture and place it directly on top of the bacon. If any batter has accumulated at the bottom of the bowl, pour a little on top of the cabbage. Using the lid of a smaller pan, press down the Okonomiyaki so that all of the cabbage makes contact with the pan. \
 \
-After 4 minutes, lift up the lid to check the edges. If they have begun to brown, it's time to flip. If not, allow the Okonomiyaki to continue cooking uncovered. Once the edges are clearly brown, use two spatulas on opposite sides of the pancake to release it from the pan. In one swift motion, flip the Okonomiyaki over. If it breaks apart, simply smush it back together and press down on it.
+After 5 minutes, lift up the lid to check the edges. If they have begun to brown, it's time to flip. If not, allow the Okonomiyaki to continue cooking, uncovered. Once the edges are clearly brown, use two spatulas on opposite sides of the pancake to gently release it from the pan, wiggling the spatulas along the edges. Once the edges have released from the pan, in one swift motion, flip the Okonomiyaki over. If it breaks apart, simply smush it back together and press down on it.\
+\
+Allow the Okonomiyaki to continue cooking until the underside is browned, about 5-7 minutes. Remove Okonomiyaki to a plate. Repeat this process 3 more times until all 4 pancakes are cooked.\
+\
+To serve, top Okonomiyaki with desired toppings. In the photo, I've used Okonomiyaki sauce, Kewpie Mayo, bonito flakes, and scallions.
