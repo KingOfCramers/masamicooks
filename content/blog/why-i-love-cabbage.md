@@ -29,7 +29,7 @@ Other brassicas have had their time in the sun, why not cabbage?\
 \
 In my teens, America went through a big [brussels sprouts phase](https://vegetablegrowersnews.com/article/demand-brussels-sprouts-grows-dramatically/). These mini cabbages were absolutely everywhere and everyone was obsessed. You'd find them on nearly every menu that claimed American roots - roasted with balsamic glaze (RIP balsamic glaze), made into a gratin, sautéed in bacon fat, fried and topped with all sorts of sickly sweet sauces and glazes - name a preparation of brussels sprouts and I can guarantee it was served in American restaurants between 2000 and 2010.\
 \
-Despite brussels' brief climb to A-list status, it's humble cousin cabbage remained in the shadows. Perhaps its not-as-cute size held it back? Or was it the centuries of negative press? For now, cabbage remains a sleeper hit for most, but you heard it here first - cabbage is the next cauliflower!\
+Despite brussels' brief climb to A-list status, it's humble cousin cabbage remained in the shadows. Perhaps its not-as-cute size held it back? Or was it the centuries of negative press? For now, cabbage remains a sleeper hit for most, but you heard it here first - cabbage is the next cauliflower.\
 \
 I finally "discovered" cabbage when I moved to NYC post-college. I needed to find a way to stretch pennies, and eating pasta for every meal was getting pretty old, not to mention it's low in fiber. Queen cabbage to the rescue.\
 \
